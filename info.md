@@ -1,17 +1,6 @@
-### hampton roads Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+<!--### Chapter Information
+* Chapter Region
 
-### Downloads or Social Links
-* [Download](#)
+### Social Links
 * [Meetup](#)
-
-### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
-
+* [Social Link](#)-->
